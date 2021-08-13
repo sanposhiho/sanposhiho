@@ -1,16 +1,28 @@
-### Hi there 👋
+Hello world. I'm Kensei Nakada.
 
-<!--
-**sanposhiho/sanposhiho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Twitter](https://twitter.com/sanpo_shiho)
+- [LinkedIn](https://www.linkedin.com/in/kensei-nakada-394b4a199/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm developing 
+
+- [gomockhandler](https://github.com/sanposhiho/gomockhandler)
+- [wastedassign](https://github.com/sanposhiho/wastedassign)
+- [easydebug](https://github.com/sanposhiho/easydebug)
+- [thank-you-stars](https://github.com/sanposhiho/thank-you-stars)
+- [camphor-/relaym-server](https://github.com/camphor-/relaym-server)
+- etc...
+
+I contribute to
+
+- [pipe-cd/pipe](https://github.com/pipe-cd/pipe)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+- etc... (fix small bugs on many projects)
+
+write some technical posts in Japanese
+
+- [my blog (sanposhiho.com)](https://sanposhiho.com)
+- [zenn](https://zenn.dev/sanpo_shiho)
+- [sanposhiho/MY_CHEAT_SHEET](https://github.com/golangci/MY_CHEAT_SHEET)
