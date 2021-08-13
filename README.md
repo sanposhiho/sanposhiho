@@ -19,7 +19,7 @@ I contribute to
 - [pipe-cd/pipe](https://github.com/pipe-cd/pipe)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-- etc... (fix small bugs on many projects)
+- etc... (fix small bugs on some projects)
 
 write some technical posts in Japanese
 
