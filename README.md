@@ -21,7 +21,7 @@ I contribute to
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
 - etc... (fix small bugs on some projects)
 
-write some technical posts in Japanese
+I write some technical posts on
 
 - [my blog (sanposhiho.com)](https://sanposhiho.com)
 - [zenn](https://zenn.dev/sanpo_shiho)
