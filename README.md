@@ -1,4 +1,12 @@
-Hello world. I'm Kensei Nakada (@sanposhiho), enjoying the development of some open source projects in my free time. (See the pinned repos below.)
+Hello world. I'm Kensei Nakada (@sanposhiho), enjoying the development of some open source projects in my free time.
 
-I am not actively looking for a job, but interested in a job allow me to contribute open sources as the part of work.
-Contact me on [Twitter](https://twitter.com/sanpo_shiho) or [LinkedIn](https://www.linkedin.com/in/kensei-nakada-394b4a199/).
+---
+
+👷‍♂️
+
+- Kubernetes SIG-Scheduling Reviewer.
+- [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator) owner.
+
+🥇 
+
+- [Kubernetes contributor award 2022 (SIG-Scheduling)](https://www.kubernetes.dev/community/awards/2022/#scheduling)
