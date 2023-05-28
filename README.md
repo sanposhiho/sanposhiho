@@ -1,4 +1,6 @@
-Hello world. I'm Kensei Nakada (@sanposhiho), enjoying the development of some open source projects in my free time.
+Hello world. 
+
+I'm Kensei Nakada (@sanposhiho), enjoying the development of open source projects in my free time.
 
 👷‍♂️
 
