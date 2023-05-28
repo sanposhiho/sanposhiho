@@ -4,6 +4,7 @@ Hello world. I'm Kensei Nakada (@sanposhiho), enjoying the development of some o
 
 - Kubernetes SIG-Scheduling Reviewer.
 - [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator) owner.
+- [kubernetes-sigs/kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension) owner.
 
 🥇 
 
