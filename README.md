@@ -1,6 +1,4 @@
-Hello world. 
-
-I'm Kensei Nakada (@sanposhiho), enjoying the development of open source projects in my free time.
+I'm Kensei Nakada (@sanposhiho), enjoying the development of open-source projects in my free time.
 
 👷‍♂️
 
@@ -12,3 +10,8 @@ I'm Kensei Nakada (@sanposhiho), enjoying the development of open source project
 
 - [Kubernetes contributor award 2022 (SIG-Scheduling)](https://www.kubernetes.dev/community/awards/2022/#scheduling)
 - [Kubernetes contributor award 2023 (SIG-Autoscaling)](https://www.kubernetes.dev/community/awards/2023/#autoscaling)
+
+---
+
+Unfortunately, I am not a full-time, paid open-source software developer. 
+If you wish for me to continue working on a specific project, you must hire me. Otherwise, I determine my own projects based on my interests and curiosity.
