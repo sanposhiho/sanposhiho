@@ -14,4 +14,4 @@ I'm Kensei Nakada (@sanposhiho), enjoying the development of open-source project
 ---
 
 Unfortunately, I am not a full-time, paid open-source software developer. 
-I determine my own projects ONLY based on my interests and curiosity. So.. do you wish for me to continue working on a specific project? hire me then.
+I determine my own projects ONLY based on my interests and curiosity. So.. do you wish for me to work on a specific project? hire me then.
