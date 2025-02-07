@@ -11,3 +11,6 @@ I'm Kensei Nakada (@sanposhiho), enjoying the development of open-source project
 
 - [Kubernetes contributor award 2022 (SIG-Scheduling)](https://www.kubernetes.dev/community/awards/2022/#scheduling)
 - [Kubernetes contributor award 2023 (SIG-Autoscaling)](https://www.kubernetes.dev/community/awards/2023/#autoscaling)
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanposhiho). 
+I’m not actively looking for a new role, but I’m always open to hearing about interesting opportunities.
