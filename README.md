@@ -5,7 +5,7 @@ I'm Kensei Nakada (@sanposhiho), enjoying the development of open-source project
 - [Kubernetes](https://github.com/kubernetes/kubernetes) SIG-Scheduling Approver.
 - [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator) owner.
 - [kubernetes-sigs/kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension) owner.
-- [Envoy Gateway](https://github.com/envoyproxy/gateway) contributor.
+- [Envoy Gateway](https://github.com/envoyproxy/gateway) reviewer.
 
 🥇 
 
